@@ -120,6 +120,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YJLAMIQK
 
 [Document5]
+DocumentPath=BMS_Balancing.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HOGXPXLK
+
+[Document6]
 DocumentPath=BMS_Protection.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -136,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICODBDRW
 
-[Document6]
+[Document7]
 DocumentPath=BMS.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOMLPEFN
 
-[Document7]
+[Document8]
 DocumentPath=BMS.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,23 +186,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document8]
-DocumentPath=BMS_Balancing.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HOGXPXLK
 
 [Document9]
 DocumentPath=BMS_gerber.Cam
