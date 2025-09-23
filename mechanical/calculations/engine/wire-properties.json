@@ -1,0 +1,26 @@
+{
+    "30": {
+        "resistance": 338.5,
+        "diameter": 0.254
+    },
+    "28": {
+        "resistance": 212.87,
+        "diameter": 0.320
+    },
+    "26": {
+        "resistance": 133.86,
+        "diameter": 0.404
+    },
+    "25": {
+        "resistance": 106.17,
+        "diameter": 0.455
+    },
+    "20": {
+        "resistance": 33.292,
+        "diameter": 0.813
+    },
+    "1": {
+        "resistance": 0.4064,
+        "diameter": 7.348
+    }
+}

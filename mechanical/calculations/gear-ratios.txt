@@ -1,0 +1,29 @@
+7 gears + reverse
+total gear height = 100mm
+module = 2
+hole diameter = 24mm
+
+diameter = module*nteeth
+module = diameter/nteeth
+nteeth = diameter/module
+
+x/y = ratio
+x = y*ratio
+
+module(x+y) = 100
+
+
+RATIOS             MS LS
+first   - 3.166  - 38/12
+second  - 2.5714 - 36/14
+third   - 2.125  - 34/16
+fourth  - 1.7777 - 32/18
+fifth   - 1.2727 - 28/22
+sixth   - 0.8519 - 23/27
+seventh - 0.5151 - 17/33
+reverse - 4      - 32/12
+
+
+GEAR ORDER FROM BACK TO FRONT
+
+R, 2, 4, 6, 7, 5, 3, 1
