@@ -1,0 +1,12 @@
+﻿"backlash"= 0.1mm
+
+"module"= 2mm
+
+"pressureAngle"= 20deg
+
+"width"= 10mm
+
+"numberOfTeeth"= 12
+
+"toothTipProfile"= 1mm
+
