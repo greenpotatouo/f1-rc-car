@@ -1,0 +1,8 @@
+﻿"module"= 1mm
+"pressureAngle"= 20deg
+"numberOfTeethRack"= 12
+"lengthOverallRack"= pi * "module" * "numberOfTeethRack"
+"backThickness"= 6mm
+"width" = 8mm
+"backlash"= 0.2mm
+"numberOfTeethPinion"= 10

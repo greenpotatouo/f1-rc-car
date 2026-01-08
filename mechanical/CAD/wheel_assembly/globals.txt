@@ -1,0 +1,6 @@
+﻿"tyre_ID"= 115mm
+"disc_OD" = 80mm
+"discbell_OD" = 55mm
+"hub_OD" = 40
+"bearing_ID" = 25mm
+"shaft_OD"= 19mm
